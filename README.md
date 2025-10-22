@@ -1,5 +1,5 @@
 **Hello** 👋
 
-I'm James. UX Developer, SaaS, automation, no-code and low-code enthusiast.
+I'm James. FE/UX Developer and AI, Automation, No-code and Low-code Enthusiast.
 
-I'm currently experimenting with various [JAMStack](https://jamstack.org)'s, namely [React](https://reactjs.org/), [NextJS](https://nextjs.org/), [Gatsby](https://www.gatsbyjs.com/), [MongoDB](https://www.mongodb.com/), [Netlify](https://www.netlify.com/) and [Vercel](https://vercel.com/) to create useful integrations with [Zapier](https://zapier.com/) and [Integromat](https://www.integromat.com/en).
+I'm currently experimenting with various [JAMStack](https://jamstack.org)'s, or components of, namely [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/) and [Vercel](https://vercel.com/) to create useful integrations with [Zapier](https://zapier.com/), [Make](https://www.make.com/en) and [n8n](https://n8n.io/).
