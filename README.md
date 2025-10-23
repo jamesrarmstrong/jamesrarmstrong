@@ -1,4 +1,4 @@
-**Hello** 👋
+**Hi There** 👋
 
 I'm James. FE/UX Developer and AI, Automation, No-code and Low-code Enthusiast.
 
